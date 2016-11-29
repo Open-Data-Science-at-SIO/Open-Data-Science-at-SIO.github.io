@@ -31,9 +31,6 @@ NOTE: The example in this README.md will render differently than in the
 final jekyll output. See the [live demo](https://scotte.github.io/jekyll-clean)
 to see how it really looks.
 
-You can, of course, use any theme you wish, see the jekyll and pygments
-documentation for more details.
-
 License
 =======
 
