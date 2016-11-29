@@ -42,10 +42,16 @@ body {
     font-size: 1.3em;
 }
 
+.well {
+    -webkit-column-break-inside: avoid; /* Chrome, Safari */
+    page-break-inside: avoid;           /* Theoretically FF 20+ */
+    break-inside: avoid;         /* IE 11 */
+}
+
 .cols {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
 }
 
 .author {
