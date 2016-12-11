@@ -2,7 +2,7 @@
 layout: post
 title: "Workshop on Text Mining in R"
 date: 2016-11-14
-author: Lynn Waterhouse
+author: lynn
 comments: true
 ---
 This Wednesday, the UCSD Library is holding a workshop, "Introduction to text mining in R". Sign up here: <a href="http://ucsd.libcal.com/event/2848831?hs=a">http://ucsd.libcal.com/event/2848831?hs=a</a>

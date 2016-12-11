@@ -37,3 +37,17 @@ markdown: kramdown
 gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']
+
+authors:
+  lynn:
+    display_name: Lynn Waterhouse
+    email: lwaterho AT ucsd
+  jessb:
+    display_name: Jessica Blanton
+    email: jmblanton AT ucsd
+  michelle:
+    display_name: Michelle Schorn
+    email: mschorn AT ucsd
+  hao:
+    display_name: Hao Ye
+    email: hye AT ucsd

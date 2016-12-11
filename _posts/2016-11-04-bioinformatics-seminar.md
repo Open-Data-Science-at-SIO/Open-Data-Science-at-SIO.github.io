@@ -2,7 +2,7 @@
 layout: post
 title: "Logo competition!"
 date: 2016-09-29
-author: Jessica Blanton
+author: jessb
 comments: true
 ---
 **SIO-BUG 2016-17 Logo competition**

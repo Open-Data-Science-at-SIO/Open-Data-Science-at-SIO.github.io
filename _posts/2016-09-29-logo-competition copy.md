@@ -2,7 +2,7 @@
 layout: post
 title: "Bioinformatics Seminar - Prof. Nadine Ziemert on Nov 7"
 date: 2016-11-04
-author: Michelle Schorn
+author: michelle
 comments: true
 ---
 The SIO-Bioinformatics User Group would like to invite you to a talk by **Professor Nadine Ziemert** on **Monday November 7, 2016 at 12:30pm in Hubbs Hall 4500**.
