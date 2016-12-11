@@ -1,5 +1,10 @@
 This is the Open Data Science @ SIO website.
 
+Post Author Attribution
+=======================
+
+To get correct authorship on posts, check that you have an author entry in the _config.yml file. This will set up the "username" you use for posts, as well as info for how your name is displayed and email. After that, you just need to use that username in the author field of any posts.
+
 Code Syntax Highlighting
 ========================
 

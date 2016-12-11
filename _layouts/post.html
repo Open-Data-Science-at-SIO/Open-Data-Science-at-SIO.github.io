@@ -1,4 +1,5 @@
 {% include header.html %}
+{% assign author = site.authors[page.author] %}
 
 <div class="container container-left">
     <div class="row">
@@ -9,6 +10,7 @@
           <div class="article">
             <div class="well">
                 <h1><a href="{{ site.baseurl}}{{ page.url }}">{{ page.date | date: "%b %-d, %Y" }} - {{ page.title }}</a></h1>
+                <h2>posted by: <a href="mailto:?to={{author.email}}">{{author.display_name}}</a></h2>
             {% if site.comments and page.comments %}
                 {% if site.disqus != '' %}
                 <p class="author"><a href="#disqus_thread" data-disqus-identifier="{{ page.url | slugify }}">Comments</a></p>

@@ -21,7 +21,7 @@ body {
 }
 
 .sidebar a {
-    color: #428bca;
+    color: #4070C0;
 }
 
 .sidebar li {
@@ -30,7 +30,7 @@ body {
 }
 
 .sidebar a:hover {
-    color: #3071a9;
+    color: #305490;
 }
 
 .container-left {
@@ -40,6 +40,11 @@ body {
 .well h1 {
     color: #ee4444;
     font-size: 1.3em;
+}
+
+.well h2 {
+    color: #ee4444;
+    font-size: 1.1em;
 }
 
 .well {
