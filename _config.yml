@@ -51,3 +51,8 @@ authors:
   hao:
     display_name: Hao Ye
     email: hye AT ucsd
+    
+collections:
+  events:
+    output: true
+    permalink: /event/:path/
