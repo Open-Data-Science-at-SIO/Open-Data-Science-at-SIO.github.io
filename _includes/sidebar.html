@@ -2,12 +2,6 @@
 {{ site.description }}
 </div>
 
-<div class="sidebar well">
-    <h1>New Here?</h1>
-    <p>Check out our <a href="{{ site.baseurl }}/resources.html">resources page</a> for an overview of our repositories and guides.</p> 
-	<p>You may also be interested in these <a href="{{ site.baseurl }}/links.html">links</a> to other tips/walkthroughs/courses.</p>
-</div>
-
 <div class="well">
 	<h1>Upcoming Events</h1>
 	{% assign current_date = site.time | date: "%Y%m%d" %}
@@ -23,9 +17,15 @@
 </div>
 
 <div class="sidebar well">
+    <h1>New Here?</h1>
+    <p>Check out our <a href="{{ site.baseurl }}/resources.html">resources page</a> for an overview of our repositories and guides.</p> 
+	<p>You may also be interested in these <a href="{{ site.baseurl }}/links.html">links</a> to other tips/walkthroughs/courses.</p>
+</div>
+
+<div class="sidebar well">
     <h1>Stay Informed!</h1>
     Subscribe to our listserves for the latest news:
-    <ul>
+    <ul style="padding-left:20px">
     <li><a href="https://siomail.ucsd.edu/mailman/listinfo/bioinf">SIO Bioinformatics Users Group</a></li>
     <li><a href="https://siomail.ucsd.edu/mailman/listinfo/r-users">SIO R Users Group</a></li>
     </ul>
