@@ -10,9 +10,9 @@ Hi,
 
 This quarter, the SIO R Users Group is doing something a little bit different and offering an informal "course" in data visualization and data wrangling.
 
-If that sounds like something you'd be interested in, please check out the course repo at https://github.com/Open-Data-Science-at-SIO/Intro-Data-Viz-Winter-2017
+If that sounds like something you'd be interested in, please check out the course repo at <https://github.com/Open-Data-Science-at-SIO/Intro-Data-Viz-Winter-2017>
 
-and be sure to subscribe to our mailing list for further updates: https://siomail.ucsd.edu/mailman/listinfo/r-users
+and be sure to subscribe to our mailing list for further updates: <https://siomail.ucsd.edu/mailman/listinfo/r-users>
 
 Best,
 --
@@ -33,7 +33,7 @@ Hao Ye
 * Some combination of me, Lynn Waterhouse, and Brian Stock.
 
 - How much R do I need to know to take this course?
-* Not that much! If you've done programming before or used R sometime in the distant past, we recommend a very brief refresher (https://www.datacamp.com/courses/free-introduction-to-r), but otherwise you're good to go.
+* Not that much! If you've done programming before or used R sometime in the distant past, we recommend a very brief refresher (<https://www.datacamp.com/courses/free-introduction-to-r>), but otherwise you're good to go.
 
 - What if I don't have any programming experience?
 * Stay tuned, because Eric Archer is offering an Intro to R "never done any programming at all before" SIO 278 in Spring quarter. Since the materials for our data viz course will be online, you can come back to it after Spring quarter. (again, don't forget to bookmark the course repo - URL above)
