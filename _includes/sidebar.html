@@ -5,13 +5,18 @@
 <div class="well">
 	<h1>Upcoming Events</h1>
 	{% assign current_date = site.time | date: "%Y%m%d" %}
-	{% for event in site.events limit:3 %}
+	{% assign numEvents = 0 %}
+	{% for event in site.events %}
 		{% assign event_date = event.start | date: "%Y%m%d" %}
     	{% if event_date >= current_date %}
     		<p><a href="{{ event.url }}">{{ event.title }}</a><br />
 			{{ event.start | date: "%-d %b %Y, %I:%M %P %Z" }}<br />
 			{{ event.location }}
 			</p>
+			{% assign numEvents = numEvents | plus: 1 %}
+     	{% endif %}
+     	{% if numEvents >= 3 %}
+     		{% break %}
      	{% endif %}
     {% endfor %}
 </div>
