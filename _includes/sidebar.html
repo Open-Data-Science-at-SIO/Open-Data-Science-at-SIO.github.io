@@ -10,7 +10,7 @@
 		{% assign event_date = event.start | date: "%Y%m%d" %}
     	{% if event_date >= current_date %}
     		<p><a href="{{ event.url }}">{{ event.title }}</a><br />
-			{{ event.start | date: "%-d %b %Y, %I:%M %P %Z" }}<br />
+			{{ event.start | date: "%Y %b %-d, %I:%M %P %Z" }}<br />
 			{{ event.location }}
 			</p>
 			{% assign numEvents = numEvents | plus: 1 %}
