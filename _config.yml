@@ -51,6 +51,9 @@ authors:
   hao:
     display_name: Hao Ye
     email: hye AT ucsd
+  tiago:
+    display_name: Tiago Leao
+    email: tferreir AT ucsd
     
 collections:
   events:
