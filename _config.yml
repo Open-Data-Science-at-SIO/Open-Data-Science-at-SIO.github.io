@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: Open Data Science at SIO
-description: If the data don't fit, you can't submit (your paper).
+description: If the data don't fit, you must admit, better check your code before you submit.
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://Open-Data-Science-at-SIO.github.io/
