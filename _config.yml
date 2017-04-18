@@ -41,19 +41,22 @@ exclude: ['README.md', 'LICENSE']
 authors:
   lynn:
     display_name: Lynn Waterhouse
-    email: lwaterho AT ucsd
+    email: lwaterho AT-AT ucsd
   jessb:
     display_name: Jessica Blanton
-    email: jmblanton AT ucsd
+    email: jmblanton AT-AT ucsd
   michelle:
     display_name: Michelle Schorn
-    email: mschorn AT ucsd
+    email: mschorn AT-AT ucsd
   hao:
     display_name: Hao Ye
-    email: hye AT ucsd
+    email: hye AT-AT ucsd
   tiago:
     display_name: Tiago Leao
-    email: tferreir AT ucsd
+    email: tferreir AT-AT ucsd
+  tessa:
+    display_name: Tessa Pierce
+    email: ntpierce AT-AT ucsd
     
 collections:
   events:
