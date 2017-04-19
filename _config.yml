@@ -10,7 +10,7 @@ url: https://Open-Data-Science-at-SIO.github.io/
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: 
+baseurl:
 
 # This can be '' to hide the Github nav button
 github: ''
@@ -57,7 +57,9 @@ authors:
   tessa:
     display_name: Tessa Pierce
     email: ntpierce AT-AT ucsd
-    
+  sara:
+    display_name: Sara Rivera
+    email: sarariv AT-AT umich
 collections:
   events:
     output: true
