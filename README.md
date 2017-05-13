@@ -1,37 +1,5 @@
 This is the Open Data Science @ SIO website.
 
-Post Author Attribution
-=======================
-
-To get correct authorship on posts, check that you have an author entry in the _config.yml file. This will set up the "username" you use for posts, as well as info for how your name is displayed and email. After that, you just need to use that username in the author field of any posts.
-
-Code Syntax Highlighting
-========================
-
-To use code syntax highlighting, use the following syntax:
-
-```
-```python
-import random
-
-# Roll the die
-roll = random.randint(1, 20)
-print('You rolled a %d.' % roll)
-``` #REMOVE
-```
-
-(Remove #REMOVE from the end of the last line). Which will look like this in
-the rendered jekyll output using the default css/syntax.css provided with this
-theme (which is the **colorful** theme from [https://github.com/iwootten/jekyll-syntax](https://github.com/iwootten/jekyll-syntax)):
-
-```python
-import random
-
-# Roll the die
-roll = random.randint(1, 20)
-print('You rolled a %d.' % roll)
-```
-
 NOTE: The example in this README.md will render differently than in the
 final jekyll output. See the [live demo](https://scotte.github.io/jekyll-clean)
 to see how it really looks.
