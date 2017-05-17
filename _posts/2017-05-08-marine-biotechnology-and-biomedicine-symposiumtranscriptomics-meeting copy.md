@@ -7,7 +7,7 @@ comments: true
 ---
 Dear All:
 
-You are all welcome to attend our end of the year symposium. For details please see [attached flyer]("{{ site.baseurl}}/files/TPMB_Retreat_Spring2017.pdf"). Please forward to your labs or anyone else that might be interested.
+You are all welcome to attend our end of the year symposium. For details please see [attached flyer]({{site.baseurl}}/files/TPMB_Retreat_Spring2017.pdf). Please forward to your labs or anyone else that might be interested.
 
 See you all there
 Lena
