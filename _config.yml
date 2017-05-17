@@ -60,6 +60,9 @@ authors:
   sara:
     display_name: Sara Rivera
     email: sarariv AT-AT umich
+  lena:
+    display_name: Lena Gerwick
+    email: lgerwick AT-AT ucsd
 collections:
   events:
     output: true
