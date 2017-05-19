@@ -19,5 +19,6 @@ Voting will run through Friday, May 26 (it's just a few clicks, so why not do it
 **2. End of year party Save-The-Date**
 
 As a heads up, plans are underway for an end of year party, tentatively scheduled for the evening of Wednesday, June 14. (details forthcoming, but there will be food, drink, and stickers - we're still working on figuring out T-shirt pricing.)  This will be a nice meeting of all members of the SIO-BUG, Open Data Science and R-User members, and we hope to see you, your friends and your families (scientific or other).
+
 ---
 Jessica Blanton
