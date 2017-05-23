@@ -2,7 +2,7 @@
 layout: post
 title: "[Bioinf] SIO-BUG Logo Competition VOTING OPEN and END OF YEAR party!!"
 date: 2017-05-18
-author: jess
+author: jessb
 comments: true
 ---
 
