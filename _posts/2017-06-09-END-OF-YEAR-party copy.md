@@ -16,7 +16,7 @@ There will be food and drink to be sure. If you have specific requests on that f
 
 In addition to spending some good time together, we have much to celebrate and reflect on from the last few years- from the inception of the SIO-BUG inception to the unifying of interest and efforts with the long running R-Users group under SIO Open Data (see https://open-data-science-at-sio.github.io/).
 
-SIO-BUG also has its first logo, submitted by Du Niu, and which narrowly beat out one of the revised Scripps Genome Center. A high-resolution PDF is [linked](open-data-science-at-sio.github.io/images/SIO_BUG_2017.pdf), and we hope the stickers we ordered for it arrive by Wednesday!
+SIO-BUG also has its first logo, submitted by Du Niu, and which narrowly beat out one of the revised Scripps Genome Center. A high-resolution PDF is [linked](https://open-data-science-at-sio.github.io/images/SIO_BUG_2017.pdf), and we hope the stickers we ordered for it arrive by Wednesday!
 
 See you next week!
 ---
