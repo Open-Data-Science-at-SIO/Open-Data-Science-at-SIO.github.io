@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "End of year message and SIO-BUG Review 2015-17 released!!"
+title: "End of year message and SIO-BUG Review 2015-17 release"
 date: 2017-06-15
 author: jessb
 comments: true
