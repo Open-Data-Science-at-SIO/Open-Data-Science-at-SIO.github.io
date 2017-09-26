@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "SIO-BUG meeting October 9: Introducing our New Organizers, jupyter notbooks!"
