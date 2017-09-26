@@ -6,10 +6,14 @@ author: jessb
 comments: true
 ---
 
-Dear all, we are looking forward to having Dr. Lisa Komoroske (UMASS/NOAA) speak at our Marine Biology Seminar this Fall!
+Dear all, 
 
-October 13
+We are looking forward to having **Dr. Lisa Komoroske** (UMASS/NOAA) speak at our Marine Biology Seminar this Fall.
+
+October 13, 
 12pm, Hubbs Hall 4500
+
+
 
 See you there!
 

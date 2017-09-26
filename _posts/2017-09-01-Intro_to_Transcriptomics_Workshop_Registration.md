@@ -6,7 +6,7 @@ author: jessb
 comments: true
 ---
 
-This fall, the SIO Bioinformatics User Group (SIO-BUG) will host a workshop to introduce the basics of transcriptomics with RNAseq!
+This fall, SIO-BUG will host a workshop to introduce the basics of transcriptomics with RNAseq!
 
  Transcriptomics is of increasing use for gene discovery, gene activity investigation, SNP detection, simple sequence repeat discovery, and gene pathway description. This event is intended to share knowledge and expand the skills of our community, particularly among researchers of non-model organisms and microbial communities. 
 
