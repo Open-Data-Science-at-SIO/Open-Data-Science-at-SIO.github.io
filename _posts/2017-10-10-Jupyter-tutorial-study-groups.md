@@ -2,7 +2,7 @@
 layout: post
 title: "Jupyter Notebook from October's Seminar and Study Groups at UCSD"
 date: 2017-09-19
-author: tfleao
+author: tiagolbiotech
 comments: true
 ---
 
@@ -14,7 +14,7 @@ If you need some help to start exploring Jupyter/Bioinformatics and/or work on a
 
 A) Starting next week, **Tuesday, October 17th**, our **BUG SIO biweekly meetings will be in Eckart from 1pm-3pm, room TBD**.
 
-B) **Every Friday at Sanford Consortium** (≈10/10h30am) the **Yeo Lab host a Coding Hours session**. For more information about time and room [sing-up for their mail list here](https://groups.google.com/forum/m/#!topic/bioinformatics-coding-hours/rd1e4cOXED0). When you get the weekly email invitation you should please RSVP and indicate what you plan to work on, so other people can easily spot common topics.
+B) **Every Friday at Sanford Consortium** (≈10/10h30am) the **Yeo Lab host a Coding Hours session**. For more information about time and room [sing-up for their mail list here](https://groups.google.com/forum/m/#!topic/bioinformatics-coding-hours/rd1e4cOXED0/join). When you get the weekly email invitation you should please RSVP and indicate what you plan to work on, so other people can easily spot common topics.
 
 C) **Every Saturday at Geisel, noon-3pm**, there is a **Bioinformatics Study Group**, check out [more info here](https://www.meetup.com/Open-Bioinformatics-SanDiego/events/244036792/).
 
