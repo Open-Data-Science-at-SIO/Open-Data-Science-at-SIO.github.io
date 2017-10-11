@@ -33,7 +33,7 @@ Free! Due to the very generous sponsorship of the SIO Biology Section and the SI
 
 * Lisa Komoroske - UMass Amherst / NOAA
 * Tessa Pierce - UC Davis
-* Lisa Cohen - UC Davis
+* Lisa Johnson - UC Davis
 * John McCrow- JCVI
 * Luke Thompson- NOAA
 
