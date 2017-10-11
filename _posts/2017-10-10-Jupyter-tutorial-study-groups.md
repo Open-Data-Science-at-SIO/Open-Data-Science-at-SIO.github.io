@@ -2,7 +2,7 @@
 layout: post
 title: "Jupyter Notebook from October's Seminar and Study Groups at UCSD"
 date: 2017-09-19
-author: tiagolbiotech
+author: tfleao
 comments: true
 ---
 
