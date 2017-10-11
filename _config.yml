@@ -39,6 +39,9 @@ gems: ['jekyll-paginate']
 exclude: ['README.md', 'LICENSE']
 
 authors:
+  tfleao:
+    display_name: Tiago Leao
+    email: tferreir AT-AT ucsd
   lynn:
     display_name: Lynn Waterhouse
     email: lwaterho AT-AT ucsd
